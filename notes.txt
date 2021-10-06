@@ -1,0 +1,5 @@
+Setup tutorial:
+https://hagsteel.com/posts/godot-rust/
+
+Download & install llvm binary:
+https://releases.llvm.org/download.html
